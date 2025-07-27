@@ -44,6 +44,16 @@ CyberSecurity_Project/
 - Login failures spike on specific dates, useful for monitoring windows  
 - The project simulates a realistic, data-driven approach to breach detection
 
+## How to Run This Project
+
+1. Clone this repo:
+   git clone https://github.com/yourusername/Cybersecurity-Data-Analysis.git
+   cd Cybersecurity-Data-Analysis
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Open Jupyter Notebook:
+   jupyter notebook CyberSecurity_Analysis.ipynb
+   
 ## Skills Demonstrated
 
 1. Data Generation with Faker
